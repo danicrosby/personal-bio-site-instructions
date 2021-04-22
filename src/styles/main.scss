@@ -16,10 +16,11 @@ body {
 #about-container {
   display: flex;
   justify-content: flex-end;
-  margin-top: 5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
   background-image: url(./assets/About.png);
   background-repeat: no-repeat;
-  background-size: 80%;
+  background-size: 70%;
   background-position: 25em;
 }
 
@@ -34,8 +35,8 @@ li a:hover {
 }
 
 #profile-image {
-  width: 42em;
-  margin-left: 15em;
+  height: 40em;
+  margin-left: 10em;
 }
 
 #right-container {
@@ -67,13 +68,13 @@ li a:hover {
 #paragraph-container {
   display: flex;
   justify-content: center;
-  margin-top: 5em;
+  margin-top: 2em;
 }
 
 #about-me-paragraph {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 2em;
+  line-height: 1.6em;
 }
 
 b {
@@ -102,11 +103,10 @@ b {
   background-repeat: no-repeat;
   background-size: 80%;
   background-position: 5em;
-  margin-top: 5em;
 }
 
 .project-card-container {
-  margin-top: 25em;
+  margin-top: 1em;
 }
 
 

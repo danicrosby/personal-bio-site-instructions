@@ -1,14 +1,14 @@
 import domBuilder from './domBuilder';
 import navBar from '../components/navBar';
-import getProjects from '../components/projects';
-import aboutPage from '../components/about';
-import projects from '../helpers/data/projectsData';
+import aboutPage from '../components/showAboutPage';
+import showProjects from '../components/showProjectCards';
+import getProjects from '../helpers/data/projectsData';
 
 const startApp = () => {
   domBuilder();
   navBar();
   aboutPage();
-  getProjects(projects);
+  showProjects(getProjects);
 };
 
 export default startApp;

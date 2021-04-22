@@ -1,0 +1,22 @@
+{
+  "-MYPt49wFoRv7dNfUc7V" : {
+    "dateCompleted" : "Feb 2021",
+    "deployedUrl" : "https://dc-bear-watchers-unite.netlify.app/",
+    "description" : "An app for scientist and park rangers can use to track bears in the wild.",
+    "firebaseKey" : "-MYPt49wFoRv7dNfUc7V",
+    "githubUrl" : "https://github.com/danicrosby/bear-watcher/projects",
+    "image" : "https://images.unsplash.com/photo-1588167056840-13caf6e4562a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "techUsed" : "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "title" : "Bear Watcher"
+  },
+  "-MYPtKzmA7vuX18Eiq14" : {
+    "dateCompleted" : "Feb 2021",
+    "deployedUrl" : "https://danicrosby-sorting-hat.netlify.app/",
+    "description" : "An app to sort first-year students into random houses at Hogwarts School Of Magic.",
+    "firebaseKey" : "-MYPtKzmA7vuX18Eiq14",
+    "githubUrl" : "https://github.com/danicrosby/sorting-hat/projects",
+    "image" : "https://images.unsplash.com/photo-1527684651001-731c474bbb5a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFycnklMjBwb3R0ZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "techUsed" : "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "title" : "Sorting Hat"
+  }
+}
