@@ -4,6 +4,5 @@
 
 - [Project Board](https://github.com/danicrosby/personal-bio-site/projects/1!)
 - [Deployed Site](https//dani-crosby-personal-bio.netlify.app)
-- [Screen Shot 2021-04-22 at 3 39 30 PM](https://user-images.githubusercontent.com/68397076/115782132-ef3fa880-a380-11eb-96d3-a1d85479fbfb.png)
 
 
